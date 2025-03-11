@@ -15,7 +15,7 @@
 
 :root {
     font-family: "Poppins", sans-serif;
-    color-scheme: var(--scheme); {/* text-color automatic white like dark mode */}
+    color-scheme: var(--scheme); {/* text-color automatic white like dark mode theme switcher */}
   }
 
 /* @layer base{
